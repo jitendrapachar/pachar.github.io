@@ -7,7 +7,7 @@
 <body>
   <header>
     <h1>Hi! I'm Jitendra Pachar</h1>
-    <p>BTech 2nd Year Computer Science Student @ NIT Andhra Pradesh</p>
+    <p>BTech 3rd Year Computer Science Student @ NIT Andhra Pradesh</p>
   </header>
   <main>
     <h2>About Me</h2>
